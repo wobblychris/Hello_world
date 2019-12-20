@@ -1,4 +1,4 @@
 # Hello_world
 Hello All!
-Wobbly here, first time writing code #supernoob.
+Wobbly here, first time writing code.
  
